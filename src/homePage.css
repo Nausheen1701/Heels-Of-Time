@@ -1,0 +1,91 @@
+.home-bg{
+    background-image: url('/public/homePage/background_landing.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.heels-of-time{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90vw;
+    height: auto;
+}
+
+.origins{
+    position: absolute;
+    left: 0;
+    top: 12vw;
+    width: 40vw;
+    z-index: 2;
+}
+
+.fashion {
+    position: absolute;
+    left: 25vw;
+    top: 29vw;
+    width: 28vw;
+    z-index: 2;
+}
+
+.rise {
+    position: absolute;
+    right: 10vw;
+    top: -2vw;
+    width: 28vw;
+    z-index: 2;
+}
+
+.green-heel {
+    position: absolute;
+    left: 5vw;
+    top: 30vw;
+    width: 23vw;
+    z-index: 3;
+}
+
+.white-boot-1 {
+    position: absolute;
+    left: 51vw;
+    top: 29vw;
+    width: 17vw;
+    z-index: 3;
+}
+
+.white-boot-2 {
+    position: absolute;
+    left: 40vw;
+    top: 27vw;
+    width: 13.5vw;
+    z-index: 3;
+}
+
+.pink-heel {
+    position: absolute;
+    right: 0;
+    top: 1vw;
+    width: 27vw;
+    z-index: 3;
+}
+
+.green-heel,
+.white-boot-1,
+.pink-heel {
+    transition: transform 0.25s cubic-bezier(0.4, 0.2, 1), z-index 0.25s;
+    cursor: pointer;
+}
+
+.green-heel:hover,
+.white-boot-1:hover,
+.pink-heel:hover {
+    transform: scale(1.15) !important;
+    z-index: 10;
+}
