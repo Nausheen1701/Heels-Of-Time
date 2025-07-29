@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Heels-Of-Time/static/css/main.b2829875.css",
-    "main.js": "/Heels-Of-Time/static/js/main.5c0772d3.js",
+    "main.js": "/Heels-Of-Time/static/js/main.191c0eb6.js",
     "static/js/453.fe70bea8.chunk.js": "/Heels-Of-Time/static/js/453.fe70bea8.chunk.js",
     "static/media/loadingBg3.svg": "/Heels-Of-Time/static/media/loadingBg3.e7c680d086aa8d1b0ccd2eab8aca6de3.svg",
     "static/media/loadingBg2.svg": "/Heels-Of-Time/static/media/loadingBg2.b5aa872f98dae0daa7b2fa5c4d9b1a61.svg",
@@ -20,11 +20,11 @@
     "index.html": "/Heels-Of-Time/index.html",
     "static/media/grey-bg.svg": "/Heels-Of-Time/static/media/grey-bg.9c045d668ddffa844db4.svg",
     "main.b2829875.css.map": "/Heels-Of-Time/static/css/main.b2829875.css.map",
-    "main.5c0772d3.js.map": "/Heels-Of-Time/static/js/main.5c0772d3.js.map",
+    "main.191c0eb6.js.map": "/Heels-Of-Time/static/js/main.191c0eb6.js.map",
     "453.fe70bea8.chunk.js.map": "/Heels-Of-Time/static/js/453.fe70bea8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2829875.css",
-    "static/js/main.5c0772d3.js"
+    "static/js/main.191c0eb6.js"
   ]
 }
