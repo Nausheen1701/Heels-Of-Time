@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d14ab53d.css",
+    "main.js": "/static/js/main.ac014df6.js",
+    "static/js/453.fe70bea8.chunk.js": "/static/js/453.fe70bea8.chunk.js",
+    "static/media/loadingBg3.svg": "/static/media/loadingBg3.e7c680d086aa8d1b0ccd2eab8aca6de3.svg",
+    "static/media/loadingBg2.svg": "/static/media/loadingBg2.b5aa872f98dae0daa7b2fa5c4d9b1a61.svg",
+    "static/media/bg.png": "/static/media/bg.629ad40439b8090fe1c5.png",
+    "static/media/spinningHeel.svg": "/static/media/spinningHeel.b3da784c33dae087b34e2af555f63b13.svg",
+    "static/media/background_landing.svg": "/static/media/background_landing.0b7c3b98cfa762e6072c.svg",
+    "static/media/Calasans Inside.ttf": "/static/media/Calasans Inside.6f556f313db6249f4900.ttf",
+    "static/media/fgsCleanBackground.svg": "/static/media/fgsCleanBackground.da2dbe94fac1c01f1fa6.svg",
+    "static/media/Calasans Solid.ttf": "/static/media/Calasans Solid.04fccaf6c3f67ca202ad.ttf",
+    "static/media/loadingBg1.svg": "/static/media/loadingBg1.9e2c35165e11b039bc3a1411b2fe04de.svg",
+    "static/media/Calasans Outline.otf": "/static/media/Calasans Outline.f495e4b8ac3c9afb3382.otf",
+    "static/media/Calasans Inside.otf": "/static/media/Calasans Inside.ee4632cc2c8afd2bf75f.otf",
+    "static/media/Calasans Solid.otf": "/static/media/Calasans Solid.89ae9ffbef45afbfbbd2.otf",
+    "static/media/Calasans 04 Solid Demo.otf": "/static/media/Calasans 04 Solid Demo.cf4ecdb2d1f53973c964.otf",
+    "static/media/background.svg": "/static/media/background.c1eaace8d0f375100fee.svg",
+    "index.html": "/index.html",
+    "static/media/grey-bg.svg": "/static/media/grey-bg.9c045d668ddffa844db4.svg",
+    "main.d14ab53d.css.map": "/static/css/main.d14ab53d.css.map",
+    "main.ac014df6.js.map": "/static/js/main.ac014df6.js.map",
+    "453.fe70bea8.chunk.js.map": "/static/js/453.fe70bea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14ab53d.css",
+    "static/js/main.ac014df6.js"
+  ]
+}
